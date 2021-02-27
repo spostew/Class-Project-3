@@ -18,6 +18,8 @@ import static org.junit.Assert.*;
  */
 public class DoubleLinkedListTest {
 
+    //This is a test comment, please god let this work so I can get started
+
     /** Values to be added in linked list's setup */
     private static final String[] STRING_VALUES = {"first", "second", "third", "fourth" , "fifth"};
     private static final int[] INT_VALUES = {100, 200, 300, 400, 500};
